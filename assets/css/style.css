@@ -1,0 +1,147 @@
+body{
+    text-align: center;   
+    
+     
+}
+
+.main{
+    
+    margin:0px;
+    padding: 15px;
+    border-radius:0px;
+    background-image: url("../images/space.jpg");
+    
+}
+.title{
+  font-size: 60px;
+}
+.img-div{
+   
+    text-align: center;
+    font-size:30px;
+    padding-top:0px;
+   
+}
+.image{
+        max-width: 80%;
+        display:block;
+        margin:auto;
+        border-color: #000;
+        border-radius:80px;
+        
+       
+    
+}
+h1 {
+    font-family: sans-serif;
+    color:#0e40d3;
+    font-size: 50px;
+    text-shadow: 5px 2px 4px #82c0f3;
+}
+h2 {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #fff;
+    
+  }
+  h3 {
+    font-family: sans-serif;
+    font-size:20px;
+    font-style:normal;
+  }
+  .imagedescription{
+      font-family: sans-serif;
+  }
+  p {
+    font-family: sans-serif;
+    text-align: justify;
+    font-size:17px;
+    padding-left: 10px;
+  }
+  li {
+    font-size:17px;
+    list-style: none;
+    text-align: left;
+    margin-left: auto;
+  }
+  .imagedescription{
+    text-align: center;
+    font-size:20px;
+    padding-top:10px;
+    margin-bottom:0px;
+    color: #fff;
+  }
+  .link{
+    text-decoration: none;
+    color:#2d4cbd;
+    
+  }
+  .link:hover{
+      color:#fff;
+  }
+ .interestingphrases{
+     font-size: 20px;
+ }
+ .tributeinformation li{
+     margin-top:3px;
+ }
+ .phrases{
+     margin-top: 10px;
+     font-family: sans-serif;
+     margin-bottom: 20px;
+     font-size: 17px;
+    
+ }
+ .briefhistory{
+     font-size: 20px;
+ }
+ .about_howking{
+   text-align:justify;
+ }
+
+ .container{
+   color:#fff;
+   background-color:#000;
+ }
+ 
+ .phraseimage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  
+  
+ }
+ .biografy{
+   text-align: center;
+   margin-top:0px;
+  
+ }
+ .biografy-link{
+   color:#2d4cbd;
+   text-decoration: none;
+ }
+ .biografy-link:hover{
+   color:#fff;
+ }
+ .complete{
+  text-align: center;
+    font-size:17px;
+    padding-top:10px;
+    color: #fff;
+ }
+ .footer_copy{
+  border-top: 1px dashed #fff ;
+  line-height: 20px;
+  color:#fff;
+  font-size: 14px;
+  background-color: #000;
+  
+   
+  
+  
+}
+
+
+ 
+ 
